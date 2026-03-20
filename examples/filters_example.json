@@ -1,0 +1,15 @@
+{
+  "name": "production-edge-alerts",
+  "criteria": {
+    "vendors": ["ExampleSoft", "Northwind"],
+    "products": ["Gateway Manager", "Container Hub"],
+    "minimum_cvss": 7.0,
+    "minimum_severity": "HIGH",
+    "cwe_types": ["CWE-78", "CWE-287", "CWE-416"],
+    "keywords": ["rce", "authentication bypass", "privilege escalation"]
+  },
+  "delivery": {
+    "channel": "telegram",
+    "target": "@your_channel_placeholder"
+  }
+}
