@@ -48,7 +48,7 @@ ThreatFeed turns raw vulnerability updates into filtered, real-time alerts deliv
 | Plan | Price | CVSS Range | CWE Filter | Product Filter |
 |------|-------|------------|------------|----------------|
 | Free | $0/mo | 7.0 – 8.0 | — | — |
-| Pro  | $2/mo | Any        | ✓ | ✓ |
+| Pro  | $5/mo | Any        | ✓ | ✓ |
 
 Pro is free for the first 3 days. No credit card required.
 
